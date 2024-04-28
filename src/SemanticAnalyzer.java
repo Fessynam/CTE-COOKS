@@ -16,5 +16,8 @@ public class SemanticAnalyzer {
             // Additional semantic checks can be added here
         }
     }
+
+    public static void analyze(ArrayList<LexicalAnalyzer.Token> tokens) {
+    }
 }
 
