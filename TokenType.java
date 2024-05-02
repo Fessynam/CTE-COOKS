@@ -1,3 +1,0 @@
-public enum TokenType {
-    KEYWORD, IDENTIFIER, OPERATOR, SYMBOL, LITERAL, UNKNOWN
-}
